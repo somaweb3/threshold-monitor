@@ -12,6 +12,8 @@ ETHERSCAN_TOKEN=<etherscan api token>
 PORT=<port to run endpoints on>
 ```
 
-npm install
-npm run build
-node ./dist/index.js
+`npm install`
+
+`npm run build`
+
+`node ./dist/index.js`
